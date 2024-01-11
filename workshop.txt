@@ -1,5 +1,5 @@
 version=1
-id=
+id=3136852872
 title=The Workshop Collection (CEC)
 description=[h1][b]Replaces Workbench with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2923979345]Crafting Enhanced Core[/url] tables.[/b][/h1]
 description=[h1][b]FORKED WITH PERMISSION FROM DJVIRUS[/b][/h1]
@@ -14,5 +14,5 @@ description=[h1][b]Comments, Suggestions, Issues, Bugs? [url=https://github.com/
 description=[url=https://github.com/DevoTan/the-workshop][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/steamNoGithubYes.png[/img][/url]
 description=
 description=[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36479][img]https://i.imgur.com/ePd8jjN.png[/img][/url]
-tags=Build 41
+tags=Build 41;Clothing/Armor;Items;Weapons
 visibility=public
