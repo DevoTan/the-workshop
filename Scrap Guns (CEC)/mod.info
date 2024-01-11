@@ -2,5 +2,5 @@ name=Scrap Guns (CEC)
 id=ScrapGuns(CEC)
 poster=preview.png
 description=This version might not work on previous saves!!
-require=TheWorkshop(CEC)
+require=TheWorkshop(CEC),craftingEnhancedCore
 icon=logo_mini.png

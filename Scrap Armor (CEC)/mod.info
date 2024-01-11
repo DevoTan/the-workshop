@@ -2,5 +2,5 @@ name=Scrap Armor (CEC)
 poster=preview.png
 id=ScrapArmor(CEC)
 description=This version might not work on previous saves!!
-require=TheWorkshop(CEC)
+require=TheWorkshop(CEC),craftingEnhancedCore
 icon=logo_mini.png
