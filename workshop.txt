@@ -1,0 +1,18 @@
+version=1
+id=
+title=The Workshop Collection (CEC)
+description=[h1][b]Replaces Workbench with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2923979345]Crafting Enhanced Core[/url] tables.[/b][/h1]
+description=[h1][b]FORKED WITH PERMISSION FROM DJVIRUS[/b][/h1]
+description=
+description=[quote][b]Original Mods[/b]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910]The Workshop[/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2122265954]Scrap Weapons[/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2125659488]Scrap Guns[/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2658619264]Scrap Armor[/url][/quote]
+description=
+description=[h1][b]Comments, Suggestions, Issues, Bugs? [url=https://github.com/DevoTan/the-workshop]GitHub[/url][/b][/h1]
+description=[url=https://github.com/DevoTan/the-workshop][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/steamNoGithubYes.png[/img][/url]
+description=
+description=[url=http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36479][img]https://i.imgur.com/ePd8jjN.png[/img][/url]
+tags=Build 41
+visibility=public
