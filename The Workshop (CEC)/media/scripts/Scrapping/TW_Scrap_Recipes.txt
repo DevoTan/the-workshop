@@ -1,0 +1,95 @@
+module TW
+{
+	imports
+	{
+		Base,
+	}
+	recipe Combine MetalParts
+    {
+    	MetalParts=3,
+
+        Result           		: ScrapMetal,
+        Time             		: 100.0,
+	    Sound 					: ScrapStuff,
+		OnGiveXP 				: Give2MWXP,
+		Category 		        : Scrapping,
+		CanBeDoneFromFloor      : TRUE,
+		NeedToBeLearn: true,
+    }
+	recipe Deconstruct Small Items
+    {
+
+    	Fork/Pen/RedPen/BluePen/Spoon/Tweezers/Corkscrew/Locket/LargeBolt,
+
+		NoBrokenItems			: false,
+		AllowDestroyedItem      : true,
+        Result           		: MetalParts=1,
+        Time             		: 200.0,
+	    Sound 					: ScrapStuff,
+		OnGiveXP 				: Give2MWXP,
+		Category 		        : Scrapping,
+		AnimNode 				: Disassemble,
+        Prop1					: Screwdriver,
+        Prop2					: Source=1,
+		CanBeDoneFromFloor      : TRUE,
+		NeedToBeLearn: true,
+		NearItem:Forge Table,
+    }
+	recipe Deconstruct Medium Items
+    {
+
+    	TinOpener/UnusableMetal/Wire/Spring/Pliers/MetalCutter,
+
+		NoBrokenItems			: false,
+		AllowDestroyedItem      : true,
+        Result           		: MetalParts=3,
+        Time             		: 200.0,
+	    Sound 					: ScrapStuff,
+		OnGiveXP 				: Give2MWXP,
+		Category 		        : Scrapping,
+		AnimNode 				: Disassemble,
+        Prop1					: Screwdriver,
+        Prop2					: Source=1,
+		CanBeDoneFromFloor      : TRUE,
+		NeedToBeLearn: true,
+		NearItem:Forge Table,
+    }
+	recipe Deconstruct Large Items
+    {
+
+    	LugWrench/Jack/Saw/PaintbucketEmpty/GardenSaw/Chain/GunParts,
+
+		NoBrokenItems			: false,
+		AllowDestroyedItem      : true,
+        Result           		: MetalParts=5,
+        Time             		: 200.0,
+	    Sound 					: ScrapStuff,
+		OnGiveXP 				: Give2MWXP,
+		Category 		        : Scrapping,
+		AnimNode 				: Disassemble,
+        Prop1					: Screwdriver,
+        Prop2					: Source=1,
+		CanBeDoneFromFloor      : TRUE,
+		NeedToBeLearn: true,
+		NearItem:Forge Table,
+    }
+	recipe Cut Metal into Wire
+    {
+
+    	SheetMetal,
+		keep MetalCutter,
+
+		NoBrokenItems			: false,
+		AllowDestroyedItem      : true,
+        Result           		: Wire=2,
+        Time             		: 500.0,
+	    Sound 					: CutSheet,
+		OnGiveXP 				: Give2MWXP,
+		Category 		        : Scrapping,
+		AnimNode 				: Disassemble,
+        Prop1					: MetalCutter,
+        Prop2					: Source=1,
+		CanBeDoneFromFloor      : False,
+		NeedToBeLearn: false,
+    }
+}
