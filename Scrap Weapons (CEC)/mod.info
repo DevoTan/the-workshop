@@ -1,0 +1,6 @@
+name=Scrap Weapons (CEC)
+id=ScrapWeapons(CEC)
+poster=poster.png
+description=This version might not work on previous saves!!
+require=TheWorkshop(CEC)
+icon=logo_mini.png
