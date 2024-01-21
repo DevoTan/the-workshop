@@ -31,15 +31,15 @@ TweakItem("Base.ModernSuspension2", "Icon", "CarSuspensionSupHeavy");
 TweakItem("Base.NormalSuspension3", "Icon", "CarSuspensionAvgSport");
 TweakItem("Base.ModernSuspension3", "Icon", "CarSuspensionSupSport");
 
-TweakItem("Base.SmallGasTank1", "Icon", "CarGasTankOldStandard");
-TweakItem("Base.NormalGasTank1", "Icon", "CarGasTankAvgStandard");
-TweakItem("Base.BigGasTank1", "Icon", "CarGasTankSupStandard");
-TweakItem("Base.SmallGasTank2", "Icon", "CarGasTankOldHeavy");
-TweakItem("Base.NormalGasTank2", "Icon", "CarGasTankAvgHeavy");
-TweakItem("Base.BigGasTank2", "Icon", "CarGasTankSupHeavy");
-TweakItem("Base.SmallGasTank3", "Icon", "CarGasTankOldSport");
-TweakItem("Base.NormalGasTank3", "Icon", "CarGasTankAvgSport");
-TweakItem("Base.BigGasTank3", "Icon", "CarGasTankSupSport");
+TweakItem("Base.SmallGasTank1", "Icon", "CarGastankOldStandard");
+TweakItem("Base.NormalGasTank1", "Icon", "CarGastankAvgStandard");
+TweakItem("Base.BigGasTank1", "Icon", "CarGastankSupStandard");
+TweakItem("Base.SmallGasTank2", "Icon", "CarGastankOldHeavy");
+TweakItem("Base.NormalGasTank2", "Icon", "CarGastankAvgHeavy");
+TweakItem("Base.BigGasTank2", "Icon", "CarGastankSupHeavy");
+TweakItem("Base.SmallGasTank3", "Icon", "CarGastankOldSport");
+TweakItem("Base.NormalGasTank3", "Icon", "CarGastankAvgSport");
+TweakItem("Base.BigGasTank3", "Icon", "CarGastankSupSport");
 
 TweakItem("Base.CarBattery1", "Icon", "CarBatteryStandard");
 TweakItem("Base.CarBattery2", "Icon", "CarBatteryHeavy");
