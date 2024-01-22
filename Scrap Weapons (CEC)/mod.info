@@ -4,3 +4,4 @@ poster=poster.png
 description=This version might not work on previous saves!!
 require=TheWorkshop(CEC),craftingEnhancedCore
 icon=logo_mini.png
+pack=ScrapWeapons
