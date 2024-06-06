@@ -46,7 +46,6 @@ module TW
     {
 
     	FishingRod,
-		keep MetalWorkbench,
 
 		NoBrokenItems			: false,
 		AllowDestroyedItem      : true,
@@ -85,7 +84,6 @@ module TW
     {
 
     	HammerHead,
-		keep MetalWorkbench,
 
 		NoBrokenItems			: false,
 		AllowDestroyedItem      : true,
@@ -409,7 +407,6 @@ module TW
     {
 
     	Toolbox,
-		keep MetalWorkbench,
 
 		NoBrokenItems			: false,
 		AllowDestroyedItem      : true,
